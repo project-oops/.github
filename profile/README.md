@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" alt="OOPS" width="180">
+</p>
+
 # OOPS
 
 **O**rbistoun, **o**bSCEne, **P**rosperous, **S**ELFish.
